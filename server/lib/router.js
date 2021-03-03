@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const handler = (req, res) => {
   if (!req.query.name) {
-    res.send(`利用方法が違うようです。<a href="https://github.com/shigeki/ask_practice/manual">https://github.com/shigeki/ask_practice/manual</a> を参照の上、再度アクセスしてください。`);
+    res.send(`利用方法が違うようです。<a href="https://github.com/shigeki/ask_practice/tree/WIP/manual">https://github.com/shigeki/ask_practice/tree/WIP/manual</a> を参照の上、再度アクセスしてください。`);
     return;
   }
   const name = req.query.name;
