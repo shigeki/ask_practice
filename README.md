@@ -20,3 +20,7 @@
 https://html5.ohtsu.org/ask_practice にアクセスすると、なにか「素晴らしいページ」が表示されるはずです。
 
 「素晴らしいページ」が表示されない場合は、画面の指示に従ってください。
+
+## 回答とコメント
+
+https://github.com/shigeki/ask_practice/issues とform 回答は https://github.com/shigeki/ask_practice/blob/WIP/question_form/README.md にコメントを書いています。
